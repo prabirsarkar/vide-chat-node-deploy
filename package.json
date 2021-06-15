@@ -1,5 +1,5 @@
 {
-  "name": "mirotalk",
+  "name": "Takesolve",
   "version": "1.0.0",
   "description": "A free WebRTC browser-based video call",
   "main": "server.js",
@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miroslavpejic85/mirotalk"
+    "url": "https://github.com/prabirsarkar/vide-chat-node-deploy.git"
   },
-  "author": "Miroslav Pejic",
-  "license": "CC-BY-NC-ND-4.0",
-  "homepage": "https://github.com/miroslavpejic85/mirotalk",
+  "author": "Prabir Sarkar",
+  "license": "1.0.0",
+  "homepage": "https://takesolve.com",
   "dependencies": {
     "compression": "^1.7.4",
     "dotenv": "^10.0.0",
